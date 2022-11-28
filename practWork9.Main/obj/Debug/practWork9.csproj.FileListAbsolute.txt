@@ -1,0 +1,96 @@
+C:\Users\исп-31\Desktop\practWork9\bin\Debug\practWork9.exe.config
+C:\Users\исп-31\Desktop\practWork9\bin\Debug\practWork9.exe
+C:\Users\исп-31\Desktop\practWork9\bin\Debug\practWork9.pdb
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\practWork9.csproj.AssemblyReference.cache
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\practWork9.csproj.SuggestedBindingRedirects.cache
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\MainWindow.g.cs
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\App.g.cs
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\practWork9_MarkupCompile.cache
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\practWork9_MarkupCompile.lref
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\MainWindow.baml
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\practWork9.g.resources
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\practWork9.Properties.Resources.resources
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\practWork9.csproj.GenerateResource.cache
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\practWork9.csproj.CoreCompileInputs.cache
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\practWork9.exe
+C:\Users\исп-31\Desktop\practWork9\obj\Debug\practWork9.pdb
+E:\Капустин ИСП-31\Кодинг\practWork9\bin\Debug\practWork9.exe.config
+E:\Капустин ИСП-31\Кодинг\practWork9\bin\Debug\practWork9.exe
+E:\Капустин ИСП-31\Кодинг\practWork9\bin\Debug\practWork9.pdb
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\practWork9.csproj.AssemblyReference.cache
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\practWork9.csproj.SuggestedBindingRedirects.cache
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\MainWindow.g.cs
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\App.g.cs
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\practWork9_MarkupCompile.cache
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\practWork9_MarkupCompile.lref
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\MainWindow.baml
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\practWork9.g.resources
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\practWork9.Properties.Resources.resources
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\practWork9.csproj.GenerateResource.cache
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\practWork9.csproj.CoreCompileInputs.cache
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\practWork9.exe
+E:\Капустин ИСП-31\Кодинг\practWork9\obj\Debug\practWork9.pdb
+C:\Users\исп-31.RSSK\Desktop\practWork9\bin\Debug\practWork9.exe
+C:\Users\исп-31.RSSK\Desktop\practWork9\bin\Debug\practWork9.pdb
+C:\Users\исп-31.RSSK\Desktop\practWork9\bin\Debug\practWork9.exe.config
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\practWork9.csproj.AssemblyReference.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\practWork9.csproj.SuggestedBindingRedirects.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\MainWindow.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\App.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\practWork9_MarkupCompile.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\practWork9_MarkupCompile.lref
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\MainWindow.baml
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\practWork9.g.resources
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\practWork9.Properties.Resources.resources
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\practWork9.csproj.GenerateResource.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\practWork9.csproj.CoreCompileInputs.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\practWork9.exe
+C:\Users\исп-31.RSSK\Desktop\practWork9\obj\Debug\practWork9.pdb
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\bin\Debug\practWork9.exe.config
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\bin\Debug\practWork9.exe
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\bin\Debug\practWork9.pdb
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\practWork9.csproj.AssemblyReference.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\practWork9.csproj.SuggestedBindingRedirects.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\MainWindow.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\App.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\practWork9_MarkupCompile.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\practWork9_MarkupCompile.lref
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\MainWindow.baml
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\practWork9.g.resources
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\practWork9.Properties.Resources.resources
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\practWork9.csproj.GenerateResource.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\practWork9.csproj.CoreCompileInputs.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\practWork9.exe
+C:\Users\исп-31.RSSK\Desktop\practWork9 — копия\obj\Debug\practWork9.pdb
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\bin\Debug\practWork9.exe.config
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\bin\Debug\practWork9.exe
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\bin\Debug\practWork9.pdb
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\practWork9.csproj.AssemblyReference.cache
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\practWork9.csproj.SuggestedBindingRedirects.cache
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\MainWindow.g.cs
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\App.g.cs
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\practWork9_MarkupCompile.cache
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\practWork9_MarkupCompile.lref
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\MainWindow.baml
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\practWork9.g.resources
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\practWork9.Properties.Resources.resources
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\practWork9.csproj.GenerateResource.cache
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\practWork9.csproj.CoreCompileInputs.cache
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\practWork9.exe
+F:\Капустин ИСП-31\Кодинг\practWork9.Main\obj\Debug\practWork9.pdb
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\bin\Debug\practWork9.exe.config
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\bin\Debug\practWork9.exe
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\bin\Debug\practWork9.pdb
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\practWork9.csproj.AssemblyReference.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\practWork9.csproj.SuggestedBindingRedirects.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\MainWindow.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\App.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\practWork9_MarkupCompile.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\practWork9_MarkupCompile.lref
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\MainWindow.baml
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\practWork9.g.resources
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\practWork9.Properties.Resources.resources
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\practWork9.csproj.GenerateResource.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\practWork9.csproj.CoreCompileInputs.cache
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\practWork9.exe
+C:\Users\исп-31.RSSK\Desktop\practWork9.Main\obj\Debug\practWork9.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="practWork9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:practWork9"
+        mc:Ignorable="d"
+        Title="Практическая работа №9" Height="600" Width="800" ResizeMode="NoResize">
+    <Grid Background="#FF545454">
+        <DataGrid x:Name="dataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="108,84,107,355" Cursor="Hand" IsReadOnly="True" Background="#FFAFAFAF" OpacityMask="#FF676767"/>
+        <Button x:Name="dataGridCreate" Content="Заполнить &#xD;&#xA;примером" HorizontalAlignment="Left" Margin="410,355,0,0" VerticalAlignment="Top" Click="DataGridCreate_Click" Height="44" Width="73" Cursor="Hand"/>
+        <Button x:Name="insertData" Content="Ввести" HorizontalAlignment="Left" Margin="418,424,0,0" VerticalAlignment="Top" Click="InsertData_Click" Width="58" Cursor="Hand"/>
+        <RadioButton x:Name="RBfirst" Content="ПК 1" HorizontalAlignment="Left" Margin="194,338,0,0" VerticalAlignment="Top" GroupName="1" IsChecked="True" Cursor="Hand"/>
+        <RadioButton x:Name="RBsecond" Content="ПК 2" HorizontalAlignment="Left" Margin="194,363,0,0" VerticalAlignment="Top" GroupName="1" Cursor="Hand"/>
+        <RadioButton x:Name="RBthird" Content="ПК 3" HorizontalAlignment="Left" Margin="194,387,0,0" VerticalAlignment="Top" GroupName="1" Cursor="Hand"/>
+        <RadioButton x:Name="RBfourth" Content="ПК 4" HorizontalAlignment="Left" Margin="194,413,0,0" VerticalAlignment="Top" GroupName="1" Cursor="Hand"/>
+        <RadioButton x:Name="RBfifth" Content="ПК 5" HorizontalAlignment="Left" Margin="194,439,0,0" VerticalAlignment="Top" GroupName="1" Cursor="Hand"/>
+        <TextBox x:Name="TBcpuType" HorizontalAlignment="Left" Margin="259,338,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="Black" Background="Black" Foreground="#FFF9F7F7"/>
+        <TextBox x:Name="TBmemorySize" HorizontalAlignment="Left" Margin="259,371,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="Black" Background="Black" Foreground="#FFF9F7F7"/>
+        <TextBox x:Name="TBhddSize" HorizontalAlignment="Left" Margin="259,404,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="Black" Background="Black" Foreground="#FFF9F7F7"/>
+        <TextBox x:Name="TBvidRamSize" HorizontalAlignment="Left" Margin="259,439,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="Black" Background="Black" Foreground="#FFF9F7F7"/>
+        <Label Content="Тип процессора (0-4)" HorizontalAlignment="Left" Margin="256,315,0,0" VerticalAlignment="Top"/>
+        <Label Content="Объём ОЗУ" HorizontalAlignment="Left" Margin="284,350,0,0" VerticalAlignment="Top"/>
+        <Label Content="Объём ЖД" HorizontalAlignment="Left" Margin="286,383,0,0" VerticalAlignment="Top"/>
+        <Label Content="Объём видео" HorizontalAlignment="Left" Margin="280,419,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BTNClear" Content="Очистить" HorizontalAlignment="Left" Margin="495,404,0,0" VerticalAlignment="Top" Click="Clear_Click" Cursor="Hand"/>
+    </Grid>
+</Window>
